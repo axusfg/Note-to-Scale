@@ -28,7 +28,7 @@ linkedin_username: andrew-xu-nu
 github_username:  axusfg
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
