@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Andrew Xu
 permalink: /about/
 ---
 
