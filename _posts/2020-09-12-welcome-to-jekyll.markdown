@@ -4,7 +4,7 @@ title:  "The Geopolitics of Artificial Intelligence"
 date:   2020-09-12 04:53:44 -0500
 categories: jekyll update
 ---
-On September 1, 2017, one million Russian students watched as Russian President Vladimir Putin addressed the nation. In his speech, President Putin declared:
+\textbf{On September 1, 2017, one million Russian students watched as Russian President Vladimir Putin addressed the nation. In his speech, President Putin declared:}
 
 “Artificial intelligence is the future for all humankind… whoever becomes the leader in this sphere will become the ruler of the world.”
 
