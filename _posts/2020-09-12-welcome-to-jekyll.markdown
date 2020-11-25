@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 **On September 1, 2017, one million Russian students watched as Russian President Vladimir Putin addressed the nation. In his speech, President Putin declared:**
 
-“Artificial intelligence is the future for all humankind… whoever becomes the leader in this sphere will become the ruler of the world.”
+*“Artificial intelligence is the future for all humankind… whoever becomes the leader in this sphere will become the ruler of the world.”*
 
 In January of 2018, the United States National Defense Strategy identified AI as a key technology to “ensure [the U.S.] will be able to fight and win the wars of the future.” Emerging technologies in AI are transforming the interactions between state actors by creating new means of diplomacy and war. Seizing on the opportunities arising from AI technology is crucial for Russia to remain competitive against its global rivals, notably the United States and China. Investing in AI is not only critical for Russia to compete against the West, but also valuable for Russia to maintain order and security at home and achieve foreign objectives abroad. With the ability to shape geopolitical conflicts both at home and abroad, artificial intelligence will become an increasingly important topic for Russia’s national security in this decade and beyond.
 
