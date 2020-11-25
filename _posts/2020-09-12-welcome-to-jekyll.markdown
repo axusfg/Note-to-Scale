@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: post
 title:  "The Geopolitics of Artificial Intelligence"
 date:   2020-09-12 04:53:44 -0500
 categories: jekyll update
