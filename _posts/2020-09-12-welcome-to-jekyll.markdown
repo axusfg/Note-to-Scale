@@ -10,7 +10,7 @@ categories: jekyll update
 
 In January of 2018, the United States National Defense Strategy identified AI as a key technology to “ensure [the U.S.] will be able to fight and win the wars of the future.” Emerging technologies in AI are transforming the interactions between state actors by creating new means of diplomacy and war. Seizing on the opportunities arising from AI technology is crucial for Russia to remain competitive against its global rivals, notably the United States and China. Investing in AI is not only critical for Russia to compete against the West, but also valuable for Russia to maintain order and security at home and achieve foreign objectives abroad. With the ability to shape geopolitical conflicts both at home and abroad, artificial intelligence will become an increasingly important topic for Russia’s national security in this decade and beyond.
 
-![putin](putin.jpg)
+![putin](../putwin.jpg){:class="img-responsive"}
 
 Although there is no consensus around a singular definition to encompass the term “artificial intelligence,” the Decree of the President of the Russian Federation on the Development of Artificial Intelligence defines artificial intelligence as “a set of technological solutions that makes it possible to simulate human cognitive functions, as well as to obtain results during the performance of specific tasks that are at least comparable to the results of human intellectual activity.” For the purposes of consistency, the definition provided by the Russian government will be the one utilized within this essay when discussing AI and its related technologies.
 
